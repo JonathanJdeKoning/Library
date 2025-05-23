@@ -19,7 +19,7 @@ data:
       title: example.test.cpp
   - name: tests
     pages:
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: tests/AplusB.test.cpp
       title: tests/AplusB.test.cpp
 layout: toppage
